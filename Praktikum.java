@@ -1,1 +1,2 @@
-public ststic 
+public ststic void main(String [] args){
+}
